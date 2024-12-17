@@ -4,6 +4,7 @@ public class Main {
 
     public static void main (String [] args) {
         //eisagwgi dedomenwn
+        System.out.println("eldi");
         Scanner s = new Scanner(System.in);
         Airline airline = new Airline();
         Airplane airplane = new Airplane();
